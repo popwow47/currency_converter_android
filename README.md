@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-7.0%2B-blue?style=for-the-badge&logo=android&logoColor=white" alt="Android 7+">
-  <img src="https://img.shields.io/badge/Flet-Python-success?style=for-the-badge" alt="Flet">
+  
   <img src="https://img.shields.io/badge/CoinGecko-API-orange?style=for-the-badge" alt="CoinGecko">
   <img src="https://img.shields.io/badge/ExchangeRate-API-blue?style=for-the-badge" alt="ExchangeRate-API">
   <img src="https://img.shields.io/badge/Size-~6.2MB-lightgrey?style=for-the-badge" alt="APK size">
