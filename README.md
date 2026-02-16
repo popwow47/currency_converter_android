@@ -34,6 +34,6 @@
 
 
 **Как запустить:**
-1. Скачайте `MY currency converter.apk
+1. Скачайте `MY currency converter.apk`
 2. Запустите файл
 
